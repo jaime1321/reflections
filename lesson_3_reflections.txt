@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+If you are collaborating with others you must push changes to the remote so others can pull these down to their local working directories
