@@ -4,3 +4,6 @@ Why might you want to always pull changes manually rather than having Git automa
 Pulling changes automatically may introduce changes in the code you are currently working with - this is better dealt with when you are ready for it to see what effect it has.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks copy a repo to your github, clone copies repo to your local, branches are labels on commits for features or bug fixes
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Verbally agree who was doing what and constantly update on what files were being updated/added/removed. Would have to be in the same room, would always need an internet connection
+whereas git can be worked with without a connection. Github provides graphical view of what is happening with everyone.
